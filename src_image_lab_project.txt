@@ -1,0 +1,7 @@
+"C:\\Me\\My Documents\\Courses\\Intro Computer Science\\Java\\Labs\\2D Arrays\\ImagePlugin\\ILab Student Copy\\ILab\\imagelab\\filters\\HFlipBW.java"
+"C:\\Me\\My Documents\\Courses\\Intro Computer Science\\Java\\Labs\\2D Arrays\\ImagePlugin\\ILab Student Copy\\ILab\\imagelab\\imagelab\\DisPanel.java"
+"C:\\Me\\My Documents\\Courses\\Intro Computer Science\\Java\\Labs\\2D Arrays\\ImagePlugin\\ILab Student Copy\\ILab\\imagelab\\imagelab\\DisplayImage.java"
+"C:\\Me\\My Documents\\Courses\\Intro Computer Science\\Java\\Labs\\2D Arrays\\ImagePlugin\\ILab Student Copy\\ILab\\imagelab\\imagelab\\ImageFilter.java"
+"C:\\Me\\My Documents\\Courses\\Intro Computer Science\\Java\\Labs\\2D Arrays\\ImagePlugin\\ILab Student Copy\\ILab\\imagelab\\imagelab\\ImageLab.java"
+"C:\\Me\\My Documents\\Courses\\Intro Computer Science\\Java\\Labs\\2D Arrays\\ImagePlugin\\ILab Student Copy\\ILab\\imagelab\\imagelab\\ImgProvider.java"
+"C:\\Me\\My Documents\\Courses\\Intro Computer Science\\Java\\Labs\\2D Arrays\\ImagePlugin\\ILab Student Copy\\ILab\\imagelab\\imagelab\\WindowCloser.java"

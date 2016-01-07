@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Image_Lab_Project</label>
+		<id>1</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Image_Lab_Project.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Image_Lab_Project.jcp</path>
+		</project>
+	</projects>
+</workspace>
